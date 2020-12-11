@@ -26,3 +26,15 @@ Tutorials: https://handsondataviz.org/geojsonio.html
 ## Mapwarper
 Wo?: https://mapwarper.net/
 Was?: Tool, um eingescannte Karten zu georeferenziern
+
+## GeoJSON Utilities
+Wo?: http://opendatalab.de/projects/geojson-utilities/
+Was?: Tool für schnellen Export der Gemeindeflächen, Landkreisflächen und Bundeslandflächen in Deutschland im .geojson Format
+Schwierigkeitsstufe: 2
+Tutorial: https://codefor.de/projekte/hn-geojson-utilities/
+
+# Quellen
+
+## Geodatenzentrum / BKG
+Wo?: https://gdz.bkg.bund.de/index.php/default/open-data.html
+Was?: Aktuelle offizielle Shapefiles der Behörden
