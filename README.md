@@ -5,6 +5,7 @@ Wo?: https://www.datawrapper.de
 Was?: Online- und Printtool für Karten, Grafiken und Tabellen
 Schwierigkeitsstufe: 1 (Einsteiger) bis 3 (fortgeschrittene Funktionen)
 Tutorials: https://academy.datawrapper.de/
+Wichtig: Datawrapper "schluckt" nur GeoJSON und TopoJSON-Dateien
 
 ## QGIS
 Was?: Geoverarbeitungswerkzeug, zB um Shapefiles zu erstellen, konvertieren, re-projizieren
@@ -38,3 +39,14 @@ Tutorial: https://codefor.de/projekte/hn-geojson-utilities/
 ## Geodatenzentrum / BKG
 Wo?: https://gdz.bkg.bund.de/index.php/default/open-data.html
 Was?: Aktuelle offizielle Shapefiles der Behörden
+
+## GeoDatenFabrik
+Wo?: https://download.geofabrik.de/
+Was?: komplette Länder- oder "Worldfiles" aus OpenStreetMap
+
+## Overpass Turbo
+Wo?: https://www.overpass-turbo.eu
+Was?: Tool, um einzelne Geometrien aus OpenStreetMap zu extrahieren
+Die Tags kann man unter https://wiki.openstreetmap.org/wiki/DE:Hauptseite suchen
+Tutorial 1: https://mapsaregreat.com/geographic-data-mining-and-visualisation-for-beginners/overpass-turbo-tutorial.html
+Tuturial 2: https://wiki.openstreetmap.org/wiki/DE:Overpass_API/Beispielsammlung
