@@ -34,6 +34,25 @@ Was?: Tool für schnellen Export der Gemeindeflächen, Landkreisflächen und Bun
 Schwierigkeitsstufe: 2<br>
 Tutorial: https://codefor.de/projekte/hn-geojson-utilities/<br>
 
+## BBoxFinder
+Wo?: http://bboxfinder.com<br>
+Was?: Sucht und findet die Daten einer "Bounding Box" - also zB die maximale Ausdenung eines Kreises etc.<br>
+Schwierigkeitsstufe: 1<br>
+Dank an @cartocalypse
+
+## ProjFinder
+Wo?: http://projfinder.com/<br>
+Was?: Anhand des Ortes lassen sich die gängisten Projektionen finden (wenn in den Daten selbst keine Projektion angegeben ist)<br>
+Schwierigkeitsstufe: 1<br>
+Tutorial: https://geoobserver.wordpress.com/2020/03/23/projfinder-projezieren-aber-richtig/<br>
+Dank an @cartocalypse
+
+## Hans' GeoTools
+Wo?: http://hanshack.com/geotools/<br>
+Was?: Datawrapper's Hans Hack hat einige seiner Geo-Tools veröffentlicht, mit denen sich z.B. Shapes für einen Größenvergleich an andere Orte verschieben lassen<br>
+Schwierigkeitsstufe: 2<br>
+Dank an @hnshck
+
 # Quellen
 
 ## Geodatenzentrum / BKG
