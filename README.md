@@ -53,6 +53,11 @@ Was?: Datawrapper's Hans Hack hat einige seiner Geo-Tools veröffentlicht, mit d
 Schwierigkeitsstufe: 2<br>
 Dank an @hnshck
 
+
+## Batch geocoder for journalists
+Wo?: https://geocode.localfocus.nl/
+Was?: Adressen in Lat/Long Koordinaten wandeln
+
 # Quellen
 
 ## Geodatenzentrum / BKG
