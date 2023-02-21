@@ -1,4 +1,4 @@
-# Tools
+# Tools zur Datenreinigung
 
 ## Excel
 
@@ -13,6 +13,11 @@
 7) Formeln anwenden
 8) „Formulierte“ Daten in neues Tabellenblatt sichern (Inhalte einfügen > Werte und Formatierungen)
 9) Evtl unter neuen Name als CSV Datei speichern
+
+### CSV
+CSV Dateien in Excel importieren: https://support.microsoft.com/de-de/office/importieren-oder-exportieren-von-textdateien-txt-oder-csv-5250ac4c-663c-47ce-937b-339e391393ba
+
+
 
 ### Formeln und Funktionen
 
@@ -86,6 +91,12 @@ https://openrefine.org/docs/manual/reconciling
 Beispiel: https://fdmlab.landesarchiv-bw.de/workshop/openrefine-einsteiger/06-reconciling-mit-gnd/
 
 https://reconciliation-api.github.io/testbench/#/
+
+## Tabula
+Tabellen aus PDFs extrahieren
+Download: tabula.technology
+Web (Achtung, alles öffentlich): tabula.ondata.it/
+
 
 
 
