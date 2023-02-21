@@ -74,3 +74,9 @@ Was?: Tool, um einzelne Geometrien aus OpenStreetMap zu extrahieren<br>
 Die Tags kann man unter https://wiki.openstreetmap.org/wiki/DE:Hauptseite suchen<br>
 Tutorial 1: https://mapsaregreat.com/geographic-data-mining-and-visualisation-for-beginners/overpass-turbo-tutorial.html<br>
 Tuturial 2: https://wiki.openstreetmap.org/wiki/DE:Overpass_API/Beispielsammlung<br>
+
+## Copernicus Sentinel EO Browser
+Wo?: https://apps.sentinel-hub.com/eo-browser/?
+Was?: Satellitenbilder vom Europäischen Copernicus-Programm
+Tutorial 1: https://www.esa.int/ESA_Multimedia/Videos/2020/05/How_to_download_a_satellite_image_on_EO_Browser
+Tutorial 2: https://www.esa.int/ESA_Multimedia/Videos/2020/05/How_to_create_a_time_lapse_on_EO_Browser
