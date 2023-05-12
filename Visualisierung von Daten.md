@@ -10,24 +10,24 @@
 
 
 ## Eure Wiederholungspunkte von Tag 1
-# Torten manchmal schwierig
-# Grafiktypen – welches Chart für welches Thema / Visual Vocabulary
-# Mehrere Dimensionen: Treemap, Scatterplot
-# Nach und nach Grafik aufbauen
-# Küchenzuruf
-# Nicht mehr 7 Bullets 
-# Sternchen / Fußnoten
-# Kapitälchen
-# 3D: Don’t, Don’t, Don’t
-# Farben: Rot ist Alarm!
-# Kartenprojektionen
-# Was ist die Kernaussage!?
-# Gestalt Prinzip
+- Torten manchmal schwierig
+- Grafiktypen – welches Chart für welches Thema / Visual Vocabulary
+- Mehrere Dimensionen: Treemap, Scatterplot
+- Nach und nach Grafik aufbauen
+- Küchenzuruf
+- Nicht mehr 7 Bullets 
+- Sternchen / Fußnoten
+- Kapitälchen
+- 3D: Don’t, Don’t, Don’t
+- Farben: Rot ist Alarm!
+- Kartenprojektionen: Wenn Grönland größer ist als Afrika
+- Was ist die Kernaussage!?
+- Gestalt Prinzip
 
 
 
 ## Theorien & Co
--
+
 - https://www.ml4devs.com/newsletter/006-data-visualization-chart-cheatsheets/
 
 
@@ -60,8 +60,12 @@ Anleitungen: https://academy.datawrapper.de
 - Color Wheel: https://color.adobe.com/de/create/color-wheel
 - Farben aus Bild extrahieren: https://color.adobe.com/de/create/image
 
+
 ## Lesestoff
-- Alberto Cairo
+- The Functional Art von Alberto Cairo (DER Dataviz Prof aus Miami)
+- How Charts lie von Alberto Cairo (https://www.amazon.com/How-Charts-Lie-Getting-Information/dp/1324001569)
+- The Visual Display of Quantitative Information von Edward R. Tufte (Die Bibel zum Thema, schon etwas älter)
+- Information Graphics (Coffeetable book mit schönen Bildern) https://www.taschen.com/en/books/graphic-design/44653/information-graphics
 
 ## Inspiration
 - Reddit: http://www.reddit.com/r/DataIsBeautiful
